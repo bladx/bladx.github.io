@@ -2,7 +2,7 @@
 title: Kiwifruits
 date: 2021-02-21 09:42:03 +0100
 categories: [Fruits, Exotic]
-tags: [kiwi-fruit]     # TAG names should always be lowercase
+tags: [kiwifruit]     # TAG names should always be lowercase
 ---
 # In short
 Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
