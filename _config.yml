@@ -15,12 +15,12 @@ timezone: Europe/Paris
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Xavier Garnier                          # the main title
+title: Xavier's Blog                          # the main title
 
-tagline: Retrouvez tout ce qui m'intéresse   # it will display as the sub-title
+tagline: Discussing about what really matters   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog de Xavier Garnier.
+  Blog of Xavier Garnier.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
