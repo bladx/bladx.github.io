@@ -2,7 +2,7 @@
 
 Language: English
 
-[![Linux Build Status](https://github.com/bladx/bladx.github.io/actions/workflows/github-pages.yml/badge.svg)][ci-workflow]
+![Linux Build Status](https://github.com/bladx/bladx.github.io/actions/workflows/github-pages.yml/badge.svg)
 
 A simple, blog-aware, static site using [GitHub Pages](https://pages.github.com) to host the generated website without any costs directly from this GitHub repository.
 
@@ -22,5 +22,5 @@ This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Boot
 
 Also, thank [JetBrains][jb] for providing the open source license.
 
-[![JB-logo](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/jetbrains.svg)][jb]
+![JB-logo](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/jetbrains.svg)
 
