@@ -18,9 +18,4 @@ A minimal, sidebar, responsive web design Jekyll theme that focuses on text pres
 
 This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Bootstrap](https://getbootstrap.com/), [Font Awesome](https://fontawesome.com/) and some other wonderful tools (their copyright information can be found in the relevant files).
 
-:tada: Thanks to all the volunteers who contributed to this project, their GitHub IDs are on [this list](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors). Also, I won't forget those guys who submitted the issues or unmerged PR because they reported bugs, shared ideas or inspired me to write more readable documentation.
-
-Also, thank [JetBrains][jb] for providing the open source license.
-
-![JB-logo](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/jetbrains.svg)
-
+Also, thank [JetBrains](https://www.jetbrains.com/) for providing the open source license.
