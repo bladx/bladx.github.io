@@ -3,28 +3,28 @@
 # ----- Commons label -----
 
 layout:
-  post: Post
+  post: Article
   category: Catégorie
-  tag: Tag
+  tag: Label
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Accueil
   categories: Catégories
-  tags: Tags
+  tags: Labels
   archives: Archives
-  about: A propos de
+  about: À propos
 
 # the text displayed in the search bar & search results
 search:
   hint: recherche
   cancel: Annuler
-  no_results: Oups ! Aucun résultat trouvé.
+  no_results: Oups ! Aucun résultats trouvés.
 
 panel:
   lastmod: Récemment mis à jour
-  trending_tags: Tags tendance
+  trending_tags: Populaire
   toc: Contenu
 
 copyright:
@@ -40,10 +40,10 @@ copyright:
     Sauf mention contraire, les articles de ce site sont publiés sous licence
     sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0) par l'auteur.
 
-meta: Propulsé par :PLATFORM avec le thème :THEME
+meta: Powered by :PLATFORM with :THEME theme
 
 not_found:
-  statment: Désolé, nous avons égaré cette URL ou elle pointe vers quelque chose qui n'existe pas.
+  statment: Désolé, cette URL pointe vers quelque chose qui n'existe pas/plus.
 
 notification:
   update_found: Une nouvelle version du contenu est disponible.
@@ -53,18 +53,18 @@ notification:
 
 post:
   written_by: Par
-  posted: Posté
+  posted: Posté le
   updated: Mis à jour
   words: mots
   pageview_measure: vues
   read_time:
     unit: min
-    prompt: lire
-  relate_posts: Autres lectures
+    prompt: ' de lecture'
+  relate_posts: Articles similaires
   share: Partager
   button:
-    next: Plus récent
-    previous: Plus ancien
+    next: Suivant
+    previous: Précédant
     copy_code:
       succeed: Copié !
     share_link:
@@ -76,4 +76,4 @@ post:
 # categories page
 categories:
   category_measure: catégories
-  post_measure: posts
+  post_measure: articles
