@@ -1,7 +1,7 @@
 ---
 title: "[Top 10] Jeux de société"
 author: xavier
-date: 2022-10-21 13:27:00 +0200
+date: 2022-10-22 13:27:00 +0200
 categories: [Hobby, Jeux de société]
 tags: [top-10]
 ---
@@ -14,18 +14,18 @@ Découvrez mon classement, la description détaillée ainsi que mon avis personn
 
 Voici mon [#top-10](/tags/top-10/) _actuel_ des jeux de société auxquels j'ai pu jouer :
 
-| Position | Jeu                                             |                     Particularité(s) |
-| :------- | :---------------------------------------------- | -----------------------------------: |
-| 1        | [Terraforming Mars](#1---terraforming-mars)     |                              Complet |
-| 2        | [Root](#2---root)                               |                          Asymétrique |
-| 3        | [Clank! Legacy](#3---clank-legacy)              | Deck builder, Jeu de plateau, Legacy |
-| 4        | [Smallworld](#4---smallworld)                   |                     Conquêtes, Léger |
-| 5        | [Wingspan](#5---wingspan)                       |                 Familial, Thématique |
-| 6        | [Welcome to the moon](#6---welcome-to-the-moon) |                   Roll&Write, Legacy |
-| 7        | [Dice Forge](#7---dice-forge)                   |                         Dice builder |
-| 8        | [King of Tokyo](#8---king-of-tokyo)             |               Simple, Jeu de plateau |
-| 9        | [T.I.M.E Stories](#9---time-stories)            |                 Coopératif, Aventure |
-| 10       | [Dice Throne Adventures](#10---dice-throne-adventures)     |      Combat, Dés, Legacy, Coopératif |
+| Position | Jeu                                                    |                     Particularité(s) |
+| :------- | :----------------------------------------------------- | -----------------------------------: |
+| 1        | [Terraforming Mars](#1---terraforming-mars)            |                              Complet |
+| 2        | [Root](#2---root)                                      |                          Asymétrique |
+| 3        | [Clank! Legacy](#3---clank-legacy)                     | Deck builder, Jeu de plateau, Legacy |
+| 4        | [Smallworld](#4---smallworld)                          |                     Conquêtes, Léger |
+| 5        | [Wingspan](#5---wingspan)                              |                 Familial, Thématique |
+| 6        | [Welcome to the moon](#6---welcome-to-the-moon)        |                   Roll&Write, Legacy |
+| 7        | [Dice Forge](#7---dice-forge)                          |                         Dice builder |
+| 8        | [King of Tokyo](#8---king-of-tokyo)                    |               Simple, Jeu de plateau |
+| 9        | [T.I.M.E Stories](#9---time-stories)                   |                 Coopératif, Aventure |
+| 10       | [Dice Throne Adventures](#10---dice-throne-adventures) |      Combat, Dés, Legacy, Coopératif |
 
 > Ce classement est mon classement à date du **20 Octobre 2022**.<br>
 Il sera évidemment susceptible d'évoluer avec le temps.
