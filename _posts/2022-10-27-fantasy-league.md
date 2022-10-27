@@ -9,7 +9,7 @@ tags: [sport]
 ## Introduction
 
 Aujourd'hui nous allons parler de [#sport](/tags/sport/) puisque l'on s'intéresse à la Fantasy league.
-Dans notre cas, il s'agira de celle rattachée à la NBA 🏀.
+Dans notre cas, il s'agira de celle rattachée à la NBA.
 
 ## Définition
 
