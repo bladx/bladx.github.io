@@ -91,7 +91,7 @@ Le prix est en général compris entre 20 et 30€ par personne pour environ une
 
 ## Liste exhaustive
 
-Voici la liste exhaustive des escape games que j'ai pu faire :
+Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronologique :
 
 > La note est purement subjective et se base principalement sur la **qualité des énigmes**, l'**immersion** et l'**histoire**.
 {: .prompt-info }
@@ -174,7 +174,7 @@ Voici la liste exhaustive des escape games que j'ai pu faire :
 - Créé par un passionné
 - Difficile, je conseille d'avoir fait une dizaine de salles au préalable
 - Il ne faut pas être claustrophobe
-- Aucun indices possibles
+- Aucun indice possible
 - On aurait pu le réussir, mais 1 faute de Marion et 1 énigme manquante de mon côté
 
 #### Mission Mutation
