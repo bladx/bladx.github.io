@@ -28,8 +28,8 @@ Voici mon [#top-10](/tags/top-10/) _actuel_ des jeux de société auxquels j'ai 
 | 10       | [Dice Throne Adventures](#10---dice-throne-adventures) |      Combat, Dés, Legacy, Coopératif |
 
 > Ce classement est mon classement à date du **20 Octobre 2022**.<br>
-> Il sera évidemment susceptible d'évoluer avec le temps.
-> {: .prompt-warning }
+  Il sera évidemment susceptible d'évoluer avec le temps.
+{: .prompt-warning }
 
 ## 1 - Terraforming Mars
 
@@ -296,7 +296,7 @@ La thématique du jeu, la simplicité des règles et la qualité du matériel at
 Et à l'inverse, les stratégies et la réflexion qui se cache derrière satisfera également les joueurs plus expérimentés.
 
 Chacun progresse durant la partie, ainsi pas de frustration si un joueur prend le large en première position.
-Il n'y a pas de mauvaises actions, seulement des actions plus intéressantes que d'autres.
+Il n'y a aucune mauvaise action, seulement des actions plus intéressantes que d'autres.
 Et même si chacun s'occupe exclusivement de faire évoluer son plateau joueur, il y aura suffisamment d'interactions entre les joueurs pour ne pas perdre de vue ce que font les autres.
 Le jeu dispose d'un mode non-compétitif plus paisible, bien que je recommande le mode standard.
 
@@ -428,7 +428,7 @@ Bref, on ressent qu'il y a eu un vrai travail de conception derrière.
 C'est en cela qu'il se démarque des autres et est devenu, de mon point de vue, la référence en matière de jeu à faire découvrir à des novices.
 
 Les parties sont courtes et suffisamment fun pour que les joueurs veulent faire la revanche.
-Il sait trouver le juste équilibre entre : pas de prises de tête et un minimum de reflexion pour que ce soit tout de même intéressant.
+Il sait trouver le juste équilibre entre : pas de prise de tête et un minimum de reflexion pour que ce soit tout de même intéressant.
 Tout cela fait de lui le candidat idéal pour être LE jeu à emmener en toute occasion.
 
 ## 9 - T.I.M.E Stories
@@ -467,9 +467,9 @@ Le but du jeu est de réussir le scénario en cours en un minimum de voyages.
 Chaque voyage coûte très cher à l’agence.
 
 > La boîte de base contient l’ensemble du matériel de jeu (plateau, dés, etc.) et le scénario Asylum.<br>
-> Dans cette première mission, les joueurs sont propulsés à l’époque des années folles en France, dans un établissement où se trame une étrange situation.<br>
-> Le jeu de base est nécessaire pour tous les scénarios.
-> {: .prompt-info }
+  Dans cette première mission, les joueurs sont propulsés à l’époque des années folles en France, dans un établissement où se trame une étrange situation.<br>
+  Le jeu de base est nécessaire pour tous les scénarios.
+{: .prompt-info }
 
 ### Mon avis
 
@@ -506,7 +506,7 @@ Pour remporter la partie, rien de plus simple, il suffit de faire tomber la vie 
 _Dice Throne Adventures_
 
 > Les personnages du jeu de base (saison 1 ou 2) sont nécessaires pour jouer.
-> {: .prompt-danger }
+{: .prompt-danger }
 
 De l’exploration, de l’or, des trésors, des améliorations, des sbires, des combats de boss, et même une marchande nommée Rosella.
 Avec cette extension, les héros participeront à une campagne coopérative.
