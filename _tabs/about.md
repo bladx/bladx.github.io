@@ -10,7 +10,7 @@ J'aime aussi avancer sur mes [projets personels](/categories/projet-personel/) �
 J'échange parfois mon clavier d'ordinateur 💻 pour celui d'un piano 🎹.<br>
 Je suis passioné de [basketball](/categories/basketball/) 🏀 depuis tout petit.<br>
 Depuis que j'ai découvert le padel 🎾, j'en fais régulièrement.<br>
-Il m'arrive de jouer aux jeux vidéos 👾 sur ma Nintendo Switch 🎮.<br>
+Il m'arrive de jouer aux jeux vidéos 👾 sur ma Nintendo Switch 🎮 ou mon meta quest 🥽.<br>
 Mais ce que j'affectionne particulièrement ce sont les [jeux de société](/categories/jeu-de-société/) 🎲.<br>
 Ou quand la situation ne l'empêche pas 😷, les [escape games](/categories/escape-game/) 🚪.<br>
 Je regarde beaucoup de séries, documentaires, animés et films 🍿.<br>
