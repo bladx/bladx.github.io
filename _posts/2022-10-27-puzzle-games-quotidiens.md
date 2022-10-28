@@ -1,7 +1,7 @@
 ---
 title: Puzzle games quotidiens
 author: xavier
-date: 2022-10-28 13:34:00 +0200
+date: 2022-10-27 20:34:00 +0200
 categories: [Vie quotidienne, Routine]
 tags: [réflexion]
 ---
