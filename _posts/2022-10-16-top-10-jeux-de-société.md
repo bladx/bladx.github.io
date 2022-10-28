@@ -1,7 +1,7 @@
 ---
 title: "[Top 10] Jeux de société"
 author: xavier
-date: 2022-10-21 19:39:00 +0200
+date: 2022-10-16 17:09:00 +0200
 categories: [Hobby, Jeu de société]
 tags: [top-10]
 ---
@@ -27,7 +27,7 @@ Voici mon [#top-10](/tags/top-10/) _actuel_ des jeux de société auxquels j'ai 
 | 9        | [T.I.M.E Stories](#9---time-stories)                   |                 Coopératif, Aventure |
 | 10       | [Dice Throne Adventures](#10---dice-throne-adventures) |      Combat, Dés, Legacy, Coopératif |
 
-> Ce classement est mon classement à date du **20 Octobre 2022**.<br>
+> Ce classement est mon classement à date du **16 Octobre 2022**.<br>
   Il sera évidemment susceptible d'évoluer avec le temps.
 {: .prompt-warning }
 
