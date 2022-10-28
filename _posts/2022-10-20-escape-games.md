@@ -1,7 +1,7 @@
 ---
 title: Escape games
 author: xavier
-date: 2022-10-25 16:02:00 +0200
+date: 2022-10-20 14:02:00 +0200
 categories: [Hobby, Escape game]
 tags: [expérience]
 ---
