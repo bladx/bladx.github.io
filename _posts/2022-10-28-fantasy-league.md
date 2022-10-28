@@ -1,7 +1,7 @@
 ---
 title: Fantasy league
 author: xavier
-date: 2022-10-26 13:50:00 +0200
+date: 2022-10-28 13:50:00 +0200
 categories: [Hobby, Basketball]
 tags: [sport]
 ---
