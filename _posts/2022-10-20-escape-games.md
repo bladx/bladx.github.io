@@ -109,7 +109,7 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 9   | [Enterré vivant](https://www.escapegame.fr/paris/destination-danger/enterre-vivant/)                                                     |  🇫🇷  | Destination Danger     |    2    |    ❌    |  88  |
 | 10  | [Mission Mutation](https://lemeilleurescapegame.fr/paris-geekopolis-mutations/)                                                          |  🇫🇷  | Geekopolis             |    6    |    ✔️    |  95  |
 | 11  | [The revenge of the sheep](https://www.escapegame.fr/londres/cluequest/revenge-of-the-sheep/)                                            |  🇬🇧  | clueQuest              |    3    |    ✔️    |  93  |
-| 12  | [Objectif Mars](https://www.escapegame.fr/paris/destination-danger/objectif-mars/)                                                       |  🇫🇷  | Destination Danger     |    6    |    ❌    |  64  |
+| 12  | [Objectif Mars](https://www.escapegame.fr/paris/destination-danger/objectif-mars/)                                                       |  🇫🇷  | Destination Danger     |    6    |    ❌    |  63  |
 | 13  | [Crime au cabaret](https://www.escapegame.fr/paris/escape-hunt/crime-au-cabaret/)                                                        |  🇫🇷  | Escape Hunt            |    4    |    ✔️    |  67  |
 | 14  | [Le patient de la chambre 8](https://www.escapegame.fr/paris/epsilon-escape/le-patient-de-la-chambre-8/)                                 |  🇫🇷  | Epsilon Escape         |    4    |    ✔️    |  86  |
 | 15  | [Saw](https://www.escapegame.fr/paris/leavinroom/instinct-survie/)                                                                       |  🇫🇷  | LeavinRoom             |    5    |    ✔️    |  85  |
@@ -131,9 +131,12 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 31  | [The shelter](https://www.escapegame.fr/paris/crack-the-egg/abri/)                                                                       |  🇫🇷  | Crack the egg          |    4    |    ✔️    |  84  |
 | 32  | [Stranger Room](https://www.escapegame.fr/savigny-sur-orge/locks-gameheure/stranger-room-savigny/)                                       |  🇫🇷  | LOCKS GAME’HEURE       |    6    |    ✔️    |  72  |
 | 33  | [Mayday Room](https://www.escapegame.fr/huez/escapegamesunited-huez/mayday-huez/)                                                        |  🇫🇷  | Escame Game United     |    4    |    ✔️    |  88  |
-| 34  | [Opération Mindfall](https://escapegameiledere.com/activites/escape-game-operation-mindfall.html/)                                       |  🇫🇷  | Escape Game Ile de Ré  |    3    |    ✔️    |  62  |
+| 34  | [Opération Mindfall](https://escapegameiledere.com/activites/escape-game-operation-mindfall.html/)                                       |  🇫🇷  | Escape Game Ile de Ré  |    3    |    ✔️    |  60  |
+| 35  | [Bienvenue à Farwest Town](https://escapetime-essonne.fr/salles/bienvenue-a-farwest-town.html/)                                          |  🇫🇷  | Escape Time            |    2    |    ✔️    |  64  |
 
-> Pourcentage de victoire : **78%**
+<!-- TODO: Ajouter le lien www.escapegame.fr quand il sera rentré dans leur bdd -->
+
+> Pourcentage de victoire : **80%**
 {: .prompt-tip }
 
 ## Remarques
@@ -180,11 +183,11 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 #### Mission Mutation
 
 - Expérience de 2 heures et demie comprenant :
-    - 1 heure de _manoir de l'horreur_ en mode zombies avec décor, acteurs et maquillage (niveau film).
-        On avait une tablette et il fallait résoudre des petits défis en réalité augmentée tout en parcourant un dédale aux ambiances diverses.
-    - 1 heure d'escape game au beau milieu de l'aventure avec des acteurs qui continuent de nous faire peur.
-    - 30 minutes de réalité virtuelle où on avait casque, combinaison, fusil et bracelet capteur de pulsation cardiaque.
-        On se voyait les uns les autres et il fallait tuer... des zombies !
+  - 1 heure de _manoir de l'horreur_ en mode zombies avec décor, acteurs et maquillage (niveau film).
+    On avait une tablette et il fallait résoudre des petits défis en réalité augmentée tout en parcourant un dédale aux ambiances diverses.
+  - 1 heure d'escape game au beau milieu de l'aventure avec des acteurs qui continuent de nous faire peur.
+  - 30 minutes de réalité virtuelle où on avait casque, combinaison, fusil et bracelet capteur de pulsation cardiaque.
+    On se voyait les uns les autres et il fallait tuer... des zombies !
 
 #### The revenge of the sheep
 
@@ -314,6 +317,12 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 
 - Très amateur, créé par une personne locale
 - Plus un jeu de piste avec une tablette en réalité augmentée
+
+#### Bienvenue à Farwest Town
+
+- Aucun cadenas, mais uniquement des mécanismes
+- Bonne immersion, renforcée par le fait qu'on l'ait fait en mode Halloween (avec des acteurs)
+- Beaucoup trop de lecture à mon goût
 
 ## Notes
 
