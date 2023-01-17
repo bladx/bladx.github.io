@@ -133,10 +133,13 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 33  | [Mayday Room](https://www.escapegame.fr/huez/escapegamesunited-huez/mayday-huez/)                                                        |  🇫🇷  | Escame Game United     |    4    |    ✔️    |  88  |
 | 34  | [Opération Mindfall](https://escapegameiledere.com/activites/escape-game-operation-mindfall.html/)                                       |  🇫🇷  | Escape Game Ile de Ré  |    3    |    ✔️    |  60  |
 | 35  | [Bienvenue à Farwest Town](https://escapetime-essonne.fr/salles/bienvenue-a-farwest-town.html/)                                          |  🇫🇷  | Escape Time            |    2    |    ✔️    |  64  |
+| 36  | [La pierre philosophale](https://www.escapegame.fr/massy/brainstorm-escape/pierre-philosophale/)                                         |  🇫🇷  | Brainstorm Escape      |    2    |    ✔️    |  87  |
+| 37  | [Le métro](https://www.escapegame.fr/paris/the-game/le-metro/)                                                                           |  🇫🇷  | The Game               |    4    |    ✔️    |  91  |
+| 38  | [Titanic](https://www.escapegame.fr/paris/majestic-escape-game/titanic/)                                                                 |  🇫🇷  | Majestic Escape Game   |    4    |    ✔️    |  77  |
 
 <!-- TODO: Ajouter le lien www.escapegame.fr quand il sera rentré dans leur bdd -->
 
-> Pourcentage de victoire : **80%**
+> Pourcentage de victoire : **82%**
 {: .prompt-tip }
 
 ## Remarques
@@ -323,6 +326,23 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - Aucun cadenas, mais uniquement des mécanismes
 - Bonne immersion, renforcée par le fait qu'on l'ait fait en mode Halloween (avec des acteurs)
 - Beaucoup trop de lecture à mon goût
+
+#### La pierre philosophale
+
+- Difficulté parfaite pour 2 joueurs confirmés
+- Le game master avait fait une erreur lors de l'installation
+
+#### Le métro
+
+- Une immersion particulièrement réussie avec de beaux décors réels
+- Des énigmes parfaitement diversifiées
+
+#### Titanic
+
+- Basé sur une histoire vraie
+- Un poil simple pour des joueurs confirmés
+- Très beaux décors, surtout la première salle
+- Il manquait une salle à mon goût, trop court/étroit avec peu d'énigmes mais pas forcément logiques
 
 ## Notes
 
