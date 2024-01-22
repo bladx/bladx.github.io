@@ -1,7 +1,7 @@
 ---
 title: Steins;Gate
 author: xavier
-date: 2023-03-04 22:41:00 +0200
+date: 2023-03-04 22:39:00 +0200
 categories: [Hobby, Anime]
 tags: [coup-de-coeur]
 ---
@@ -11,6 +11,11 @@ tags: [coup-de-coeur]
 Penchons nous aujourd'hui sur l'une des meilleures "bonnes surprises" que j'ai regardé en matière d'anime : Steins;Gate.
 
 Steins;Gate est pour moi un gros [#coup-de-coeur](/tags/coup-de-coeur/) que je cite souvent dans mes animes préférés.
+Il est actuellement disponible sur Amazon Prime vidéos ([ici](https://www.primevideo.com/dp/amzn1.dv.gti.76610aae-e999-4763-b90a-79927bae1fb1?autoplay=0&ref_=atv_cf_strg_wb)), même s'il change souvent de plateforme.
+Et son format est relativement court puisqu'il comporte uniquement **25 épisodes de 24 minutes**.
+
+> Les premiers épisodes peuvent sembler étranges, mais le fait de s'accrocher en vaut largement la peine !
+{: .prompt-warning }
 
 ![Cover](/assets/img/posts/steins-gate/cover.jpg)
 _Steins;Gate_
