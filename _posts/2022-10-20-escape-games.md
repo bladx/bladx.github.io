@@ -138,8 +138,7 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 38  | [Titanic](https://www.escapegame.fr/paris/majestic-escape-game/titanic/)                                                                 |  🇫🇷  | Majestic Escape Game   |    4    |    ✔️    |  77  |
 | 39  | [Le mystère de Barbe Noire](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/barbe-noire/)                                                                 |  🇫🇷  | Enigmatic Escape Game   |    3    |    ✔️    |  88  |
 | 40  | [Braquage à Amsterdam](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/braquage-amsterdam-bretigny/)                                                                 |  🇫🇷  | Enigmatic Escape Game   |    3    |    ✔️    |  75  |
-
-<!-- TODO: Ajouter le lien www.escapegame.fr quand il sera rentré dans leur bdd -->
+| 41  | [En territoire ennemi](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/territoire-ennemi/)                                                                 |  🇫🇷  | Enigmatic Escape Game   |    4    |    ✔️    |  86  |
 
 > Pourcentage de victoire : **83%**
 {: .prompt-tip }
@@ -358,6 +357,13 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - 2 salles parallèles
 - Meilleur temps que l'équipe adverse
 - Trop simple pour un groupe de 3 joueurs avancés
+
+#### En territoire ennemi
+
+- Personnalisé
+- Game master vraiment cool
+- Énigmes assez complexes
+- Thème/décors un peu trop vu et revu
 
 ## Notes
 
