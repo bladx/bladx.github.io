@@ -132,13 +132,14 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 32  | [Stranger Room](https://www.escapegame.fr/savigny-sur-orge/locks-gameheure/stranger-room-savigny/)                                       |  🇫🇷  | LOCKS GAME’HEURE       |    6    |    ✔️    |  72  |
 | 33  | [Mayday Room](https://www.escapegame.fr/huez/escapegamesunited-huez/mayday-huez/)                                                        |  🇫🇷  | Escame Game United     |    4    |    ✔️    |  88  |
 | 34  | [Opération Mindfall](https://escapegameiledere.com/activites/escape-game-operation-mindfall.html/)                                       |  🇫🇷  | Escape Game Ile de Ré  |    3    |    ✔️    |  60  |
-| 35  | [Bienvenue à Farwest Town](https://www.escapegame.fr/villebon-sur-yvette/escape-time-paris-saclay/farwest-town/)                                          |  🇫🇷  | Escape Time            |    2    |    ✔️    |  64  |
+| 35  | [Bienvenue à Farwest Town](https://www.escapegame.fr/villebon-sur-yvette/escape-time-paris-saclay/farwest-town/)                         |  🇫🇷  | Escape Time            |    2    |    ✔️    |  64  |
 | 36  | [La pierre philosophale](https://www.escapegame.fr/massy/brainstorm-escape/pierre-philosophale/)                                         |  🇫🇷  | Brainstorm Escape      |    2    |    ✔️    |  87  |
 | 37  | [Le métro](https://www.escapegame.fr/paris/the-game/le-metro/)                                                                           |  🇫🇷  | The Game               |    4    |    ✔️    |  91  |
 | 38  | [Titanic](https://www.escapegame.fr/paris/majestic-escape-game/titanic/)                                                                 |  🇫🇷  | Majestic Escape Game   |    4    |    ✔️    |  77  |
-| 39  | [Le mystère de Barbe Noire](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/barbe-noire/)                                                                 |  🇫🇷  | Enigmatic Escape Game   |    3    |    ✔️    |  88  |
-| 40  | [Braquage à Amsterdam](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/braquage-amsterdam-bretigny/)                                                                 |  🇫🇷  | Enigmatic Escape Game   |    3    |    ✔️    |  75  |
-| 41  | [En territoire ennemi](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/territoire-ennemi/)                                                                 |  🇫🇷  | Enigmatic Escape Game   |    4    |    ✔️    |  86  |
+| 39  | [Le mystère de Barbe Noire](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/barbe-noire/)                                 |  🇫🇷  | Enigmatic Escape Game  |    3    |    ✔️    |  88  |
+| 40  | [Braquage à Amsterdam](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/braquage-amsterdam-bretigny/)                      |  🇫🇷  | Enigmatic Escape Game  |    3    |    ✔️    |  75  |
+| 41  | [En territoire ennemi](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/territoire-ennemi/)                                |  🇫🇷  | Enigmatic Escape Game  |    4    |    ✔️    |  86  |
+| 42  | [Opération Dovka](https://www.escapegame.fr/massy/brainstorm-escape/operation-dovka/)                                                    |  🇫🇷  | Brainstorm Escape      |    4    |    ✔️    |  68  |
 
 > Pourcentage de victoire : **83%**
 {: .prompt-tip }
@@ -364,6 +365,12 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - Game master vraiment cool
 - Énigmes assez complexes
 - Thème/décors un peu trop vu et revu
+
+#### Opération Dovka
+
+- Fait avec 2 débutants
+- Énigmes originales et sympas
+- Impossible sans indices, car trop tiré par les cheveux
 
 ## Notes
 
