@@ -140,6 +140,9 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 40  | [Braquage à Amsterdam](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/braquage-amsterdam-bretigny/)                      |  🇫🇷  | Enigmatic Escape Game  |    3    |    ✔️    |  75  |
 | 41  | [En territoire ennemi](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/territoire-ennemi/)                                |  🇫🇷  | Enigmatic Escape Game  |    4    |    ✔️    |  86  |
 | 42  | [Opération Dovka](https://www.escapegame.fr/massy/brainstorm-escape/operation-dovka/)                                                    |  🇫🇷  | Brainstorm Escape      |    4    |    ✔️    |  68  |
+| 43  | [Piégés](https://www.escapegame.fr/le-havre/escape-yourself-le-havre/pieges-havre/)                                                      |  🇫🇷  | Escape Yourself        |    2    |    ✔️    |  69  |
+| 44  | [Mystère et conférie](https://www.escapegame.fr/le-havre/otopia-le-havre/mystere-confrerie-havre/)                                       |  🇫🇷  | Otopia                 |    2    |    ✔️    |  72  |
+| 45  | [L'enchantement d'Excalibur](https://www.escapegame.fr/rouen/escape-423/enchantement-excalibur/)                                         |  🇫🇷  | Escape 423             |    4    |    ✔️    |  73  |
 
 > Pourcentage de victoire : **83%**
 {: .prompt-tip }
@@ -371,6 +374,23 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - Fait avec 2 débutants
 - Énigmes originales et sympas
 - Impossible sans indices, car trop tiré par les cheveux
+
+#### Piégés
+
+- Introduction, histoire et game master vraiment sympa
+- Énigmes trop simples pour 2 joueurs avancés
+
+#### Mystère et confrérie
+
+- Énigmes très bien pensées, originales et dans le thème
+- Un peu simple pour 2 joueurs avancés
+- Petite surprise sympa à la fin
+
+#### L'enchantement d'Excalibur
+
+- Fait avec 2 débutants
+- Aucun cadenas, mais uniquement des mécanismes
+- Un objet que l'on garde tout du long mais qui évolue
 
 ## Notes
 
