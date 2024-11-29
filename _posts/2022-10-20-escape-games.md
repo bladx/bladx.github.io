@@ -143,8 +143,9 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 43  | [Piégés](https://www.escapegame.fr/le-havre/escape-yourself-le-havre/pieges-havre/)                                                      |  🇫🇷  | Escape Yourself        |    2    |    ✔️    |  69  |
 | 44  | [Mystère et conférie](https://www.escapegame.fr/le-havre/otopia-le-havre/mystere-confrerie-havre/)                                       |  🇫🇷  | Otopia                 |    2    |    ✔️    |  72  |
 | 45  | [L'enchantement d'Excalibur](https://www.escapegame.fr/rouen/escape-423/enchantement-excalibur/)                                         |  🇫🇷  | Escape 423             |    4    |    ✔️    |  73  |
+| 46  | [The Curse](https://exite.fi/en/project/the-curse/)                                                                                      |  🇫🇮  | EXITE Live Games       |    6    |    ✔️    |  86  |
 
-> Pourcentage de victoire : **83%**
+> Pourcentage de victoire : **85%**
 {: .prompt-tip }
 
 ## Remarques
@@ -391,6 +392,12 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - Fait avec 2 débutants
 - Aucun cadenas, mais uniquement des mécanismes
 - Un objet que l'on garde tout du long mais qui évolue
+
+#### The Curse
+
+- Fait avec 5 débutants (peu d'aide)
+- Fait à Helsinki, en Finlande
+- Énigmes nombreuses et variées avec quelques "surprises"
 
 ## Notes
 
