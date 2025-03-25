@@ -144,6 +144,7 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 44  | [Mystère et conférie](https://www.escapegame.fr/le-havre/otopia-le-havre/mystere-confrerie-havre/)                                       |  🇫🇷  | Otopia                 |    2    |    ✔️    |  72  |
 | 45  | [L'enchantement d'Excalibur](https://www.escapegame.fr/rouen/escape-423/enchantement-excalibur/)                                         |  🇫🇷  | Escape 423             |    4    |    ✔️    |  73  |
 | 46  | [The Curse](https://exite.fi/en/project/the-curse/)                                                                                      |  🇫🇮  | EXITE Live Games       |    6    |    ✔️    |  86  |
+| 47  | [La Purge](https://www.escapegame.fr/bondoufle/b-14/la-purge/)                                                                           |  🇫🇷  | B14       |    3    |    ✔️    |  87  |
 
 > Pourcentage de victoire : **85%**
 {: .prompt-tip }
@@ -398,6 +399,12 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - Fait avec 5 débutants (peu d'aide)
 - Fait à Helsinki, en Finlande
 - Énigmes nombreuses et variées avec quelques "surprises"
+
+#### La Purge
+
+- Le but n'est pas de s'échapper, mais au contraire de s'enfermer
+- Scénario créé par un employé (et non acheté en Bulgarie)
+- Nous l'avons fait peu de temps avant que la salle ne soit définitivement détruite
 
 ## Notes
 
