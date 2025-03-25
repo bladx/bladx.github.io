@@ -55,9 +55,8 @@ jobs:
           bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
 
       - name: Upload site artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-pages-artifact@v1.0.8
         with:
-          name: github-pages
           path: "_site${{ steps.pages.outputs.base_path }}"
 
   deploy:
