@@ -144,9 +144,11 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 44  | [Mystère et conférie](https://www.escapegame.fr/le-havre/otopia-le-havre/mystere-confrerie-havre/)                                       |  🇫🇷  | Otopia                 |    2    |    ✔️    |  72  |
 | 45  | [L'enchantement d'Excalibur](https://www.escapegame.fr/rouen/escape-423/enchantement-excalibur/)                                         |  🇫🇷  | Escape 423             |    4    |    ✔️    |  73  |
 | 46  | [The Curse](https://exite.fi/en/project/the-curse/)                                                                                      |  🇫🇮  | EXITE Live Games       |    6    |    ✔️    |  86  |
-| 47  | [La Purge](https://www.escapegame.fr/bondoufle/b-14/la-purge/)                                                                           |  🇫🇷  | B14       |    3    |    ✔️    |  87  |
+| 47  | [La Purge](https://www.escapegame.fr/bondoufle/b-14/la-purge/)                                                                           |  🇫🇷  | B14                    |    3    |    ✔️    |  87  |
+| 48  | [Mission Pandora](https://www.escapegame.fr/nimes/the-magic-doors/mission-pandora/)                                                      |  🇫🇷  | The Magic Doors        |    4    |    ✔️    |  88  |
+| 49  | [Apprentis sorciers](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/apprentis-sorciers-bretigny/)                        |  🇫🇷  | Enigmatic Escape Game  |    4    |    ✔️    |  90  |
 
-> Pourcentage de victoire : **85%**
+> Pourcentage de victoire : **86 %**
 {: .prompt-tip }
 
 ## Remarques
@@ -405,6 +407,17 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - Le but n'est pas de s'échapper, mais au contraire de s'enfermer
 - Scénario créé par un employé (et non acheté en Bulgarie)
 - Nous l'avons fait peu de temps avant que la salle ne soit définitivement détruite
+
+#### Mission Pandora
+
+- Durée : 1h30
+- Une immersion particulièrement réussie avec de beaux décors réels
+
+#### Apprentis sorciers
+
+- Durée : 1h30
+- Des décors vraiment incroyables
+- Une mission principale + des quêtes secondaires pour avoir un plus gros score
 
 ## Notes
 
