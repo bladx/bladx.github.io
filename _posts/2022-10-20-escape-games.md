@@ -148,6 +148,7 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 48  | [Mission Pandora](https://www.escapegame.fr/nimes/the-magic-doors/mission-pandora/)                                                      |  🇫🇷  | The Magic Doors        |    4    |    ✔️    |  88  |
 | 49  | [Apprentis sorciers](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/apprentis-sorciers-bretigny/)                        |  🇫🇷  | Enigmatic Escape Game  |    4    |    ✔️    |  90  |
 | 50  | [Rome : l'héritage de l'empereur](https://www.escapegame.fr/velizy-villacoublay/glorious-escape/rome-heritage-empereur/)                 |  🇫🇷  | Glorious Escape        |    2    |    ✔️    |  79  |
+| 51  | [La pièce manquante](https://www.escapegame.fr/biscarrosse/cinema-renoir/la-piece-manquante/)                                            |  🇫🇷  | Cinéma Renoir          |    2    |    ✔️    |  81  |
 
 > Pourcentage de victoire : **86 %**
 {: .prompt-tip }
@@ -425,6 +426,11 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 - Dans l'ensemble les énigmes sont plutôt bien pensées
 - Mais comme souvent avec cette entreprise, il y a une énigme (ou plus) qui n'a pas vraiment de sens et vient "gâcher" le plaisir
 - Sinon thème et décor réussis
+
+#### La pièce manquante
+
+- Énormément de fouilles
+- Il s'agit de la saison 2, mais pas besoin d'avoir fait la première avant
 
 ## Notes
 
