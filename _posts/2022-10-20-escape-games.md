@@ -149,8 +149,10 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 | 49  | [Apprentis sorciers](https://www.escapegame.fr/bretigny-sur-orge/enigmatic-bretigny/apprentis-sorciers-bretigny/)                        |  🇫🇷  | Enigmatic Escape Game  |    4    |    ✔️    |  90  |
 | 50  | [Rome : l'héritage de l'empereur](https://www.escapegame.fr/velizy-villacoublay/glorious-escape/rome-heritage-empereur/)                 |  🇫🇷  | Glorious Escape        |    2    |    ✔️    |  79  |
 | 51  | [La pièce manquante](https://www.escapegame.fr/biscarrosse/cinema-renoir/la-piece-manquante/)                                            |  🇫🇷  | Cinéma Renoir          |    2    |    ✔️    |  81  |
+| 52  | [L'affaire des poisons](https://www.escapegame.fr/versailles/engrenage/affaire-poisons-versailles/)                                      |  🇫🇷  | Engrenage              |    4    |    ✔️    |  86  |
+| 53  | [La chambre du duc](https://www.escapegame.fr/duras/chateaudeduras/chambre-duc/)                                                         |  🇫🇷  | Château de Duras       |    5    |    ✔️    |  65  |
 
-> Pourcentage de victoire : **86 %**
+> Pourcentage de victoire : **87 %**
 {: .prompt-tip }
 
 ## Remarques
@@ -431,6 +433,18 @@ Voici la liste exhaustive des escape games que j'ai pu faire, par ordre chronolo
 
 - Énormément de fouilles
 - Il s'agit de la saison 2, mais pas besoin d'avoir fait la première avant
+
+#### L'affaire des poisons
+
+- Décors et énigmes plutôt pas mal dans l'ensemble
+- Un poil facile sachant qu'on devient vraiment expérimentés
+
+#### La chambre du duc
+
+- Fait avec Matthew (9) et Willow (6)
+- Permet de voir une partie du château qui est fermé au public
+- La game master nous a suivi de pièce en pièce tout du long
+- Les énigmes étaient un peu alambiquées, la game master devait nous aider régulièrement
 
 ## Notes
 
